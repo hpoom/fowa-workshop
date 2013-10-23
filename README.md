@@ -145,9 +145,9 @@ Grunt Dev Tools is a Chrome Dev Tools extension to allow calling Grunt tasks fro
 
 Also there is a sublime-grunt tool to allow sublime to call Grunt.
 
-bit.ly/yeomantutorial
+http://bit.ly/yeomantutorial
 
-bit.ly/yeomandemo
+http://bit.ly/yeomandemo
 
 ### Scaffold, Build & Manage
 
