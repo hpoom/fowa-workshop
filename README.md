@@ -28,6 +28,9 @@ Use history once in a while to see what repetative tasks you have in your day. T
 
 Likes alfred a lot, suggested https://github.com/zenorocha/alfred-workflows
 
+If you use sublime you can use the build tool to run your grunt tasks. Sublime Linter and LintJS.
+
+
 
 ##### Grunt Intro
 
