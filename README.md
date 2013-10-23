@@ -1,20 +1,18 @@
-fowa-workshop
-=============
+# fowa-workshop
 
-The Front-End Warrior Workshop at FOWA 2013
+## The Front-End Warrior Workshop at FOWA 2013
 
-Presented by Addy Osmani
+### Presented by Addy Osmani
 
 - Grunt
 - ?
 - ? Bower
-- ? Yeoman
+- ? Yeoman (now called Yo)
 - Lunch
 - Hands-on exercises
 - Prizes
 
-Notes
-=====
+## Notes
 
 Context switching between tools is as much of an issue as context switching between projects/work.
 
@@ -22,9 +20,22 @@ With compile libraries like Sass, Less, Coffeecript etc, use watch to live reloa
 
 The number one reason, according to HTTP Archive, that pages have slowed down is because of images.
 
+Has yet to find a task that he can't script with Grunt. Has automated all his daily dev workflow with Grunt.
 
-Tools
-=====
+
+### Scaffold, Build & Manage
+
+Scaffold, write less with Yo
+Build, preview and test with Grunt
+Manage dependencies with Bower
+
+
+## Tools
 
 * CodeKit
+* Hammer
+* Mixture (Chat to Peter Nelson from Mixture at next codeHarbour)
+* Scout
+* Prepros
+* Koala
 
