@@ -131,6 +131,8 @@ Installed backbone with bower. Then was show that you can install from a git rep
 
 Can also do bower installs from a CDN.
 
+Yeoman started before Grunt and Bower had been created. It was an extension of Paul Irish work on HTML5Boilerplate
+
 
 
 ### Scaffold, Build & Manage
