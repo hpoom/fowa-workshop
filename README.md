@@ -20,9 +20,11 @@ With compile libraries like Sass, Less, Coffeecript etc, use watch to live reloa
 
 The number one reason, according to HTTP Archive, that pages have slowed down is because of images.
 
+**Must do unit testing with Mocha.** Every conf I go to I come back wanted to do unit testing with our JS. We need to make this happen ASAP!
+
 ##### Grunt Intro
 
-**npm install -g grunt-cli**
+	npm install -g grunt-cli
 
 Has yet to find a task that he can't script with Grunt. Has automated all his daily dev workflow with Grunt.
 
@@ -36,7 +38,7 @@ _concurrent_ will run undependent grunt tasks async. _newer_ will only run stuff
 
 ##### Bower Intro
 
-**npm install -g bower**
+	npm install -g bower
 
 Bower by default only installs the latest stable version. So you might not get the newest version as the latest build is not stable.
 
@@ -44,7 +46,7 @@ Bower can even do your script tags for the libraries it fetches.
 
 ##### Yo Intro
 
-**npm install yo -g**
+	npm install yo -g
 
 Yo is great for if you don't have time to learn Grunt or Bower inside out, you want the advantages of them today, but you can't learn it all. Yo gets you up a running faster. It also scaffolds out all the boilerplate.
 
@@ -52,7 +54,16 @@ Yo will use Grunt and Bower. You don't need to use Yo, but you can learn Yo fast
 
 Yo has generators for new projects. You can start a new backbone project with one command line :)
 
+	npm search yeoman-generator
+
+	npm install generator-webapp // Might be global -g. I missed that bit
 	yo webapp // Starts a new web app
+
+	npm install generator-backbone // Might be global -g. I missed that bit
+	yo backbone
+	// Get some questions about what you would like
+
+	yo backbone:view // Creates new view etc
 
 
 
