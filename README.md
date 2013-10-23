@@ -22,11 +22,17 @@ The number one reason, according to HTTP Archive, that pages have slowed down is
 
 Has yet to find a task that he can't script with Grunt. Has automated all his daily dev workflow with Grunt.
 
+Maybe get everybody in my team to code one grunt task in a future project lounge?
+
+
+
 
 ### Scaffold, Build & Manage
 
 Scaffold, write less with Yo
+
 Build, preview and test with Grunt
+
 Manage dependencies with Bower
 
 
