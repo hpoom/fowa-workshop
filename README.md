@@ -22,6 +22,13 @@ The number one reason, according to HTTP Archive, that pages have slowed down is
 
 **Must do unit testing with Mocha.** Every conf I go to I come back wanted to do unit testing with our JS. We need to make this happen ASAP!
 
+Make alias to common. So you can in one line do something very powerful. Addy aliased _clone_ to checkout to current path a project from his github, get all dependencys and then open it in his code editor. WOW!
+
+Use history once in a while to see what repetative tasks you have in your day. Then work on automating them.
+
+Likes alfred a lot, suggested https://github.com/zenorocha/alfred-workflows
+
+
 ##### Grunt Intro
 
 	npm install -g grunt-cli
