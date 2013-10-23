@@ -47,6 +47,8 @@ You can setup a private bower if you company wants to package stuff but not expo
 
 	npm install -g yo
 
+_Installing yo installs grunt and bower for you!_
+
 **npm install generator-backbone**
 
 Yo is great for if you don't have time to learn Grunt or Bower inside out, you want the advantages of them today, but you can't learn it all. Yo gets you up a running faster. It also scaffolds out all the boilerplate.
@@ -57,10 +59,10 @@ Yo has generators for new projects. You can start a new backbone project with on
 
 	npm search yeoman-generator
 
-	npm install generator-webapp // Might be global -g. I missed that bit
+	npm install generator-webapp -g
 	yo webapp // Starts a new web app
 
-	npm install generator-backbone // Might be global -g. I missed that bit
+	npm install generator-backbone -g
 	yo backbone
 	// Get some questions about what you would like
 
