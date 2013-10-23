@@ -14,29 +14,13 @@
 
 ## Notes
 
+### Part One
+
 Context switching between tools is as much of an issue as context switching between projects/work.
 
 With compile libraries like Sass, Less, Coffeecript etc, use watch to live reload when files change.
 
 The number one reason, according to HTTP Archive, that pages have slowed down is because of images.
-
-**Must do unit testing with Mocha.** Every conf I go to I come back wanted to do unit testing with our JS. We need to make this happen ASAP!
-
-Make alias to common. So you can in one line do something very powerful. Addy aliased _clone_ to checkout to current path a project from his github, get all dependencys and then open it in his code editor. WOW!
-
-Use history once in a while to see what repetative tasks you have in your day. Then work on automating them.
-
-Likes alfred a lot, suggested https://github.com/zenorocha/alfred-workflows
-
-If you use sublime you can use the build tool to run your grunt tasks. Sublime Linter and LintJS.
-
-Chrome has workspaces in Chrome latest build. It allows you to use Chrome as an editor for you project. Great for debugging. _This must be what brackets does when you debug a brackets extension._
-You can even create new files in Chrome. Chrome now has framework debugging support. You can turn off the debugger dropping into frameworks. It is in the _experiments_ section of Chrome.
-
-Talked about remote debugging between sublime and chrome. I have seen this recently with brackets and chrome. Allows you to use your own editor of choice over chrome, but still breakpoint your code.
-
-Coming to chrome soon, is a real termianl in chrome dev tools. Not out yet, but soon will be able to npm from inside chrome dev tools.
-
 
 ##### Grunt Intro
 
@@ -89,6 +73,28 @@ Yo has generators for new projects. You can start a new backbone project with on
 	npm install generator-mobile
 	yo mobile
 
+**Must do unit testing with Mocha.** Every conf I go to I come back wanted to do unit testing with our JS. We need to make this happen ASAP!
+
+Make alias to common. So you can in one line do something very powerful. Addy aliased _clone_ to checkout to current path a project from his github, get all dependencys and then open it in his code editor. WOW!
+
+Use history once in a while to see what repetative tasks you have in your day. Then work on automating them.
+
+Likes alfred a lot, suggested https://github.com/zenorocha/alfred-workflows
+
+If you use sublime you can use the build tool to run your grunt tasks. Sublime Linter and LintJS.
+
+Chrome has workspaces in Chrome latest build. It allows you to use Chrome as an editor for you project. Great for debugging. _This must be what brackets does when you debug a brackets extension._
+You can even create new files in Chrome. Chrome now has framework debugging support. You can turn off the debugger dropping into frameworks. It is in the _experiments_ section of Chrome.
+
+Talked about remote debugging between sublime and chrome. I have seen this recently with brackets and chrome. Allows you to use your own editor of choice over chrome, but still breakpoint your code.
+
+Coming to chrome soon, is a real termianl in chrome dev tools. Not out yet, but soon will be able to npm from inside chrome dev tools.
+
+### Part Two
+
+
+
+
 
 ### Scaffold, Build & Manage
 
@@ -101,14 +107,17 @@ Manage dependencies with Bower
 
 ## Tools
 
-* CodeKit
-* Hammer
-* Mixture (Chat to Peter Nelson from Mixture at next codeHarbour)
-* Scout
-* Prepros
-* Koala
-* WebStorm - A great Javascript IDE for coding large scale JS apps with all the benifits and IDE has over a text editor.
-* Sublime
-* Brackets
-* Tailor - This is brackets on ChromeOS. You can now code on a ChromeBook!!! GAME CHANGER!!!
+* Automators
+	* CodeKit
+	* Hammer
+	* Mixture (Chat to Peter Nelson from Mixture at next codeHarbour)
+	* Scout
+	* Prepros
+	* Koala
+* Editor or IDEs
+	* WebStorm - A great Javascript IDE for coding large scale JS apps with all the benifits and IDE has over a text editor.
+	* Sublime
+	* Brackets
+	* Tailor - This is brackets on ChromeOS. You can now code on a ChromeBook!!! GAME CHANGER!!!
+* Other
 
