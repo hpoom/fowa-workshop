@@ -30,6 +30,12 @@ Likes alfred a lot, suggested https://github.com/zenorocha/alfred-workflows
 
 If you use sublime you can use the build tool to run your grunt tasks. Sublime Linter and LintJS.
 
+Chrome has workspaces in Chrome latest build. It allows you to use Chrome as an editor for you project. Great for debugging. _This must be what brackets does when you debug a brackets extension._
+You can even create new files in Chrome. Chrome now has framework debugging support. You can turn off the debugger dropping into frameworks. It is in the _experiments_ section of Chrome.
+
+Talked about remote debugging between sublime and chrome. I have seen this recently with brackets and chrome. Allows you to use your own editor of choice over chrome, but still breakpoint your code.
+
+Coming to chrome soon, is a real termianl in chrome dev tools. Not out yet, but soon will be able to npm from inside chrome dev tools.
 
 
 ##### Grunt Intro
@@ -99,4 +105,9 @@ Manage dependencies with Bower
 * Scout
 * Prepros
 * Koala
+
+* WebStorm - A great Javascript IDE for coding large scale JS apps with all the benifits and IDE has over a text editor.
+* Sublime
+* Brackets
+
 
