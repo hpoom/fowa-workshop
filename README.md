@@ -60,6 +60,8 @@ Bower by default only installs the latest stable version. So you might not get t
 
 Bower can even do your script tags for the libraries it fetches.
 
+You can setup a private bower if you company wants to package stuff but not expose it outside your buisness.
+
 ##### Yo Intro
 
 	npm install yo -g
@@ -105,8 +107,6 @@ Manage dependencies with Bower
 * Scout
 * Prepros
 * Koala
-
-
 * WebStorm - A great Javascript IDE for coding large scale JS apps with all the benifits and IDE has over a text editor.
 * Sublime
 * Brackets
