@@ -106,8 +106,9 @@ Manage dependencies with Bower
 * Prepros
 * Koala
 
+
 * WebStorm - A great Javascript IDE for coding large scale JS apps with all the benifits and IDE has over a text editor.
 * Sublime
 * Brackets
-
+* Tailor - This is brackets on ChromeOS. You can now code on a ChromeBook!!! GAME CHANGER!!!
 
