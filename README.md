@@ -97,9 +97,15 @@ Remote preview. An old solution, but works. Not pain free. Adobe Edge Inspect is
 
 Grunt _LiveReload_ setup using Yo. [This looks good](http://bit.ly/gruntsync)
 
-GhostLab. Paid app, but as well as live reloads on multidevice, it can also sync clicks and scrolls. So can use one of many synced devices and scroll and all devices will scroll. Also syncs link following and field inputs. WOW!!!
+GhostLab. Paid app, but as well as live reloads on multidevice, it can also sync clicks and scrolls. So can use one of many synced devices and scroll and all devices will scroll. Also syncs link following and field inputs. **WOW!!!**
 
 More mobile stuff at Addys talk tomorrow.
+
+Another tip is colour code your terminal. Addy will share his doc files later.
+
+Grunt that starts with _grunt-contrib_ means it is added by the core grunt community. Highly trusted. Anything else is also good, but are not from the core team.
+
+_tree_ is a great terminal command. Install it with brew
 
 
 
