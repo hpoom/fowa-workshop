@@ -1,0 +1,24 @@
+{
+  "name": "bower-app",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hpoom/fowa-workshop",
+  "authors": [
+    "Simon Wood <simon.wood@holidayextras.com>"
+  ],
+  "description": "my bower test",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "backbone": "~1.1.0"
+  },
+  "devDependencies": {
+    "backbone.paginator": "~0.8.1"
+  }
+}

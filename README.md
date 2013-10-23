@@ -45,7 +45,7 @@ You can setup a private bower if you company wants to package stuff but not expo
 
 ##### Yo Intro
 
-	npm install yo -g
+	npm install -g yo
 
 **npm install generator-backbone**
 
@@ -114,6 +114,24 @@ With grunt you can have multiple enviroments. So could have _dev_ and _productio
 	grunt jshint:production
 
 This was we can have compression in production but not dev. Up till now been spending hours setting up our grunt file. Yes we have automated but lots of boilerplate and we are trying to stop that. So with Yo we can do all this grunt setup automaticly.
+
+Covered _grunt connect_ where we can run a local webserver for testing our app. Need to make sure you set keep alive to true.
+
+Jasmin uses PhantomJS. Mentioned both Jasmin and Mocha, increasingly using more Mocha, but lots of Jasmin still used too.
+
+Bower came along just when package management on the front end was needed. PHP, Python, Node.js all have excellent package managers, but the FED community did not have a package manager. It does now, Bower.
+
+Bower is NPM for Front End Developers. Talked about browserify, which was mentioned at Node Conf a few weeks ago. Browserify tries to use NPM as a front end package manager.
+
+### Part Three
+
+Installed backbone with bower. Then was show that you can install from a git repo is something is not in a bower package
+
+	bower install git://domain.com
+
+Can also do bower installs from a CDN.
+
+
 
 ### Scaffold, Build & Manage
 
