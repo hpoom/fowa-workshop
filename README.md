@@ -107,7 +107,13 @@ Grunt that starts with _grunt-contrib_ means it is added by the core grunt commu
 
 _tree_ is a great terminal command. Install it with brew
 
+With grunt you can have multiple enviroments. So could have _dev_ and _production_ and do
 
+	grunt jshint:dev
+	// or
+	grunt jshint:production
+
+This was we can have compression in production but not dev. Up till now been spending hours setting up our grunt file. Yes we have automated but lots of boilerplate and we are trying to stop that. So with Yo we can do all this grunt setup automaticly.
 
 ### Scaffold, Build & Manage
 
