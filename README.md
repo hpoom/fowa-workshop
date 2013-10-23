@@ -138,7 +138,16 @@ Yeoman started before Grunt and Bower had been created. It was an extension of P
 ### Practical
 
 http://bit.ly/gruntbook
+
 http://bit.ly/gruntcode
+
+Grunt Dev Tools is a Chrome Dev Tools extension to allow calling Grunt tasks from Chrome.
+
+Also there is a sublime-grunt tool to allow sublime to call Grunt.
+
+bit.ly/yeomantutorial
+
+bit.ly/yeomandemo
 
 ### Scaffold, Build & Manage
 
