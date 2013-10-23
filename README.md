@@ -48,6 +48,8 @@ Bower can even do your script tags for the libraries it fetches.
 
 	npm install yo -g
 
+**npm install generator-backbone**
+
 Yo is great for if you don't have time to learn Grunt or Bower inside out, you want the advantages of them today, but you can't learn it all. Yo gets you up a running faster. It also scaffolds out all the boilerplate.
 
 Yo will use Grunt and Bower. You don't need to use Yo, but you can learn Yo fast and then get that to deal with Grunt and Bower for you.
@@ -65,6 +67,9 @@ Yo has generators for new projects. You can start a new backbone project with on
 
 	yo backbone:view // Creates new view etc
 
+	// Lots more, you can start a new wordpress or mobile app in 2 lines of code!!!
+	npm install generator-mobile
+	yo mobile
 
 
 ### Scaffold, Build & Manage
