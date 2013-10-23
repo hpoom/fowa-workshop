@@ -24,7 +24,7 @@ Has yet to find a task that he can't script with Grunt. Has automated all his da
 
 Maybe get everybody in my team to code one grunt task in a future project lounge?
 
-Create multi size images with srcN.
+Create multi size images with _srcN_.
 
 Image optermisation with _image-optim_. This grunt task is awsome, does all the image compression on the fly.
 
