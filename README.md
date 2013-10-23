@@ -1,13 +1,10 @@
-# fowa-workshop
-
-## The Front-End Warrior Workshop at FOWA 2013
+#	The Front-End Warrior Workshop at FOWA 2013
 
 ##### Presented by Addy Osmani
 
 - Grunt
-- ?
-- ? Bower
-- ? Yeoman (now called Yo)
+- Bower
+- Yeoman (now called Yo)
 - Lunch
 - Hands-on exercises
 - Prizes
@@ -73,13 +70,13 @@ Yo has generators for new projects. You can start a new backbone project with on
 	npm install generator-mobile
 	yo mobile
 
-**Must do unit testing with Mocha.** Every conf I go to I come back wanted to do unit testing with our JS. We need to make this happen ASAP!
+**Must do unit testing with Mocha.** Every conf I go to I come back wanted to do unit testing with our JS. We need to make this happen.
 
 Make alias to common. So you can in one line do something very powerful. Addy aliased _clone_ to checkout to current path a project from his github, get all dependencys and then open it in his code editor. WOW!
 
 Use history once in a while to see what repetative tasks you have in your day. Then work on automating them.
 
-Likes alfred a lot, suggested https://github.com/zenorocha/alfred-workflows
+Likes alfred a lot, [suggested](https://github.com/zenorocha/alfred-workflows)
 
 If you use sublime you can use the build tool to run your grunt tasks. Sublime Linter and LintJS.
 
@@ -92,7 +89,17 @@ Coming to chrome soon, is a real termianl in chrome dev tools. Not out yet, but 
 
 ### Part Two
 
+Talking about syncronised cross-device testing. So we can edit code and test it love cross device making mobile development a lot easier.
 
+Our uses are more and more using mobiles. Slower CPU, slower GPU. Although browsers are fully featured the response/feek is not always the same. (thinking about Paul Irish talks on FPS on desktop and mobile).
+
+Remote preview. An old solution, but works. Not pain free. Adobe Edge Inspect is a newer/better tool, supports live reloads.
+
+Grunt _LiveReload_ setup using Yo. [This looks good](http://bit.ly/gruntsync)
+
+GhostLab. Paid app, but as well as live reloads on multidevice, it can also sync clicks and scrolls. So can use one of many synced devices and scroll and all devices will scroll. Also syncs link following and field inputs. WOW!!!
+
+More mobile stuff at Addys talk tomorrow.
 
 
 
@@ -119,5 +126,8 @@ Manage dependencies with Bower
 	* Sublime
 	* Brackets
 	* Tailor - This is brackets on ChromeOS. You can now code on a ChromeBook!!! GAME CHANGER!!!
+* Mobile Tools
+	* Adobe Edge Inspect
+	* GhostLab
 * Other
 
