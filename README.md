@@ -135,7 +135,10 @@ Can also do bower installs from a CDN.
 
 Yeoman started before Grunt and Bower had been created. It was an extension of Paul Irish work on HTML5Boilerplate
 
+### Practical
 
+http://bit.ly/gruntbook
+http://bit.ly/gruntcode
 
 ### Scaffold, Build & Manage
 
